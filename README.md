@@ -12,3 +12,5 @@ A Realm soultion (https://realm.io) was used for Mobile Database and Realtime Sy
 I am developing two mobile applications using the realm libaray.
 - Android (Java) (https://github.com/hosung03/DrawPadAndEPubReader_android)
 - iOS (swift)
+
+![alt text](https://github.com/hosung03/DrawPadAndEPubReader/edit/master/ApplicationCapture_1.png)
