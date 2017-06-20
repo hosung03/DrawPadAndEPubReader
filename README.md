@@ -13,4 +13,7 @@ I am developing two mobile applications using the realm libaray.
 - Android (Java) (https://github.com/hosung03/DrawPadAndEPubReader_android)
 - iOS (swift)
 
-![alt text](https://github.com/hosung03/DrawPadAndEPubReader/edit/master/ApplicationCapture_1.png)
+<p align="center">
+  <img src="ApplicaionsCapture_1.jpg" width="500"/>
+  <img src="ApplicaionsCapture_2.jpg" width="500"/>
+</p>
