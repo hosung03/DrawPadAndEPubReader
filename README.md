@@ -1,4 +1,4 @@
-# DrawPadAndEPubReader
+# DrawPadAndEPubReader (under developing)
 
 Wellcome to visit my gifhub page.
 
@@ -12,7 +12,7 @@ A Realm soultion (https://realm.io) was used for Mobile Database and Realtime Sy
 I am developing two mobile applications using the realm libaray.
 
 <p> - <a href="https://github.com/hosung03/DrawPadAndEPubReader_android">Android (Java) </a> </p>
-<p> - iOS (swift) </p>
+<p> - <a href="https://github.com/hosung03/DrawPadAndEPubReader_swift">iOS (swift) </a> </p>
 
 <p align="center">
   <img src="ApplicaionsCapture_1.jpg" width="500"/>
