@@ -1,4 +1,4 @@
-# DrawPadAndEPubReader (under developing)
+# DrawPadAndEPubReader
 
 Wellcome to visit my gifhub page.
 
